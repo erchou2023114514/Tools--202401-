@@ -38,7 +38,7 @@ static void t() {
 int main() {
 	while (true) {
 		system("cls");
-		system("Loading");
+		printf("Loading");
 		system("cls");
 		t();
 		printf("(1) Shut down\n");
