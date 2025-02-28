@@ -16,7 +16,7 @@ static void t1() {
 	printf("cd [<Directory's Name>]          : Goto the folder's path or revert the lastest path(\"cd ..\" is revert).\"cd DF\"\n");
 	printf("mkdir [<Directory's Name>]       :Make a folder.\n");
 	printf("exit                             : Leave this shell\n");
-	printf("rd [<Directory's Name>]          :Remove the folder.\"del a.txt\"\n");
+	printf("rd [<Directory's Name>]          :Remove the folder. \"del a.txt\"\n");
 	printf("type null > [<File's Name>]      :Make a file\"type null > name.txt\"\n");
 	printf("echo [<texts>] > [<File's Name>] :Write texts to a files\"echo texts > name.txt\"\n");
 	printf("Cmd(Command or MS-DOS shell):\n");
