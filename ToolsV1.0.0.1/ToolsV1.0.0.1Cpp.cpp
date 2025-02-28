@@ -59,7 +59,7 @@ int main() {
 		}if (choose == 2) {
 			system("cls");
 			t();
-			system("echo \"Use this on the school which running the tasks and not normal computers\"");
+			system("echo \"Use this on the computer on school which running the tasks and not normal computers\"");
 			system("echo \"If not,close this terminal.\"");
 			system("Pause");
 			system("cls");
