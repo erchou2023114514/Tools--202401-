@@ -3,6 +3,9 @@
 Tools V1.0.0.1
 第一版编写出来了，可以正常运行（程序供学校机房使用）。
 
+Tools V1.2
+加了一个提权的，和USB解锁。
+提权支持 NT SERVICE / TrustedInstaller 和 SYSTEM ,“SYSTEM”为测试阶段。
 
 联系（Connection）:
 email: erchou2023114514@outlook.com  
