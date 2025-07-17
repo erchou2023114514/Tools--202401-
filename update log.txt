@@ -7,6 +7,9 @@ Tools V1.2
 加了一个提权的，和USB解锁。
 提权支持 NT SERVICE / TrustedInstaller 和 SYSTEM ,“SYSTEM”为测试阶段。
 
+Tools V2.0
+键盘锁，屏幕广播，中文。
+
 联系（Connection）:
 email: erchou2023114514@outlook.com  
 erchou2024114514@outlook.com 
